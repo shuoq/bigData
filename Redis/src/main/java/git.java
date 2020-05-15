@@ -3,5 +3,6 @@ public class git {
         System.out.println("helloGit");
         System.out.println("更新1");
         System.out.println("新建分支");
+        System.out.println("ssh更新");
     }
 }
